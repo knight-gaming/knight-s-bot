@@ -1,1 +1,1 @@
-# trial-learner-bot
+# knight-s-bot
